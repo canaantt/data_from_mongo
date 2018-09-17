@@ -1,0 +1,17 @@
+{
+  "name": "data_from_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.2.15",
+    "node-async-loop": "^1.2.2"
+  }
+}
